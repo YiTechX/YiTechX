@@ -2,11 +2,11 @@
 
 ## Hakkımda
 
-Ben Yiğit, yapay zeka, Python ve JavaScript ile ilgilenen bir yazılım geliştiriciyim. Şu anda yapay zeka projeleri üzerinde çalışıyor ve sürekli olarak Python ve JavaScript dil yeteneklerimi geliştiriyorum.
+Ben Yiğit, Python ve JavaScript ile ilgilenen bir yazılım geliştiriciyim. Şu anda yapay zeka projeleri üzerinde çalışıyor ve sürekli olarak Python ve JavaScript dil yeteneklerimi geliştiriyorum.
 
 - 🌱 Şu anda öğrenmekte olduğum şeyler: Derin Öğrenme, Doğal Dil İşleme, Web Geliştirme
 - 💼 Çalıştığım yer: Şu anda serbest çalışıyorum ve çeşitli projelerde yer alıyorum
-- 💬 Benimle iletişime geçmekten çekinme: [LinkedIn](https://www.linkedin.com/in/yigityapayzeka/), [Twitter](https://twitter.com/yigityapayzeka), [E-posta](mailto:yigityapayzeka@example.com)
+
 
 ## Diller ve Araçlar
 
