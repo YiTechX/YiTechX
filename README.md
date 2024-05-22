@@ -20,9 +20,8 @@ Ben Yiğit, Python ve JavaScript ile ilgilenen bir yazılım geliştiriciyim. Ş
 ## İstatistikler
 
 ![İstatistik Kartı 1](https://github-readme-stats.vercel.app/api?username=YiTechX&show_icons=true&theme=radical)
-![İstatistik Kartı 2](https://github-readme-stats.vercel.app/api/top-langs/?username=YiTechX&layout=compact&theme=radical)
+
 [![İstatistik Kartı 3](https://github-readme-stats.vercel.app/api/top-langs/?username=YiTechX&langs_count=8&theme=radical)](https://github.com/YiTechX)
-[![Katkı Grafiği](https://activity-graph.herokuapp.com/graph?username=YiTechX&theme=rogue)](https://github.com/YiTechX)
 
 
 
