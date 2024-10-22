@@ -1,31 +1,39 @@
-# Merhaba, Benim Adım Yiğit! 👋
+# Hey! Ben Yiğit, nam-ı diğer **YiTechX**! 👋
 
-## Hakkımda
+Merhaba! Ben **Yiğit**, Python ve JavaScript dünyasında devrim yapmayı amaçlayan bir yazılım geliştiricisiyim. 👨‍💻 Yapay zeka, web geliştirme ve modern teknolojilerle projeler üretiyor, sürekli olarak öğrenmeye devam ediyorum. 🚀
 
-Ben Yiğit, Python ve JavaScript ile ilgilenen bir yazılım geliştiriciyim. Şu anda yapay zeka projeleri üzerinde çalışıyor ve sürekli olarak Python ve JavaScript dil yeteneklerimi geliştiriyorum.
+## 💡 Şu Anda Üzerinde Çalıştıklarım
+- **🌱 Öğreniyorum:** Derin Öğrenme, Doğal Dil İşleme (NLP), Modern Web Geliştirme
+- **💼 Freelance:** Serbest çalışıyorum ve harika projelerde yer alıyorum.
 
-- 🌱 Şu anda öğrenmekte olduğum şeyler: Derin Öğrenme, Doğal Dil İşleme, Web Geliştirme
-- 💼 Çalıştığım yer: Şu anda serbest çalışıyorum ve çeşitli projelerde yer alıyorum
+---
 
+## 🛠️ Kullandığım Araçlar ve Diller
+- **🔧 Araçlarım:** Visual Studio Code, Jupyter Notebook, Git, Docker
+- **💻 Favori Dillerim:** Python 🐍, JavaScript ⚡
+- **🌐 Web Teknolojileri:** HTML, CSS, React ⚛️
+- **🛢️ Veritabanları:** SQLite, PostgreSQL
 
-## Diller ve Araçlar
+---
 
-- 🔧 İlgilendiğim araçlar: Visual Studio Code, Jupyter Notebook, Git, Docker
-- 💻 Favori dillerim: Python, JavaScript
-- 🌐 Web teknolojileri: HTML, CSS, React
-- 🛢️ Veritabanları: SQLite, PostgreSQL
+## 📊 İstatistiklerim
+![Yiğit'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=YiTechX&show_icons=true&theme=radical)
+[![En Popüler Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=YiTechX&langs_count=8&theme=radical)](https://github.com/YiTechX)
 
+---
 
+## 🔥 GitHub Aktivitem
+![Yiğit'in Son Aktiviteleri](https://github-readme-activity-graph.vercel.app/graph?username=YiTechX&theme=radical)
 
-## İstatistikler
+---
 
-![İstatistik Kartı 1](https://github-readme-stats.vercel.app/api?username=YiTechX&show_icons=true&theme=radical)
+## 🏆 GitHub Başarıları
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YiTechX&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-[![İstatistik Kartı 3](https://github-readme-stats.vercel.app/api/top-langs/?username=YiTechX&langs_count=8&theme=radical)](https://github.com/YiTechX)
+---
 
+## 🤝 Bana Ulaşın
+Profilime göz attığınız için teşekkürler! Eğer birlikte bir şeyler yaratmak ya da sadece konuşmak isterseniz, bana istediğiniz zaman ulaşabilirsiniz. 🚀
 
-
-
-## Teşekkürler!
-
-Profilimi ziyaret ettiğiniz için teşekkür ederim! Umarım burada paylaştığım bilgiler ilginizi çekmiştir. Birlikte çalışmak veya iletişime geçmek isterseniz, lütfen çekinmeden bana ulaşın. 🚀
+---
+🌟 **YiTechX** 🌟
