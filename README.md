@@ -35,5 +35,7 @@ Merhaba! Ben **Yiğit**, Python ve JavaScript dünyasında devrim yapmayı amaç
 ## 🤝 Bana Ulaşın
 Profilime göz attığınız için teşekkürler! Eğer birlikte bir şeyler yaratmak ya da sadece konuşmak isterseniz, bana istediğiniz zaman ulaşabilirsiniz. 🚀
 
+- YiTechX.com.tr
+- YiTechX.xyz
 ---
 🌟 **YiTechX** 🌟
