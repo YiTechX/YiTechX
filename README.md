@@ -1,4 +1,4 @@
-![YiTechX]([https://github.com/YiTechX/gif](https://github.com/YiTechX/gif/blob/main/Mavi%20ve%20Beyaz%20Modern%20Teknoloji%20Portfolyo%20Sunum.gif?raw=true)
+![YiTechX](https://github.com/YiTechX/gif/blob/main/Mavi%20ve%20Beyaz%20Modern%20Teknoloji%20Portfolyo%20Sunum.gif?raw=true)
 
 # Hey! Ben Yiğit, nam-ı diğer **YiTechX**! 👋
 
