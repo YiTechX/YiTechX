@@ -1,3 +1,5 @@
+![YiTechX](https://github.com/YiTechX/gif)
+
 # Hey! Ben Yiğit, nam-ı diğer **YiTechX**! 👋
 
 Merhaba! Ben **Yiğit**, Python ve JavaScript dünyasında devrim yapmayı amaçlayan bir yazılım geliştiricisiyim. 👨‍💻 Yapay zeka, web geliştirme ve modern teknolojilerle projeler üretiyor, sürekli olarak öğrenmeye devam ediyorum. 🚀
